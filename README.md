@@ -4,16 +4,6 @@ This is a collection of my writeups for challenges in CDDC 2020
 
 - https://senior.cddc2020.nshc.sg/
 
-## Solved
-Challenge | Category | Remarks
-----------|:--------:| -------
-[]() | []() | []()
-
-## Unsolved
-Challenge | Category | Remarks
-----------|:--------:| -------
-
-
 ## Gate 5
 Challenge  | Remarks
 ---------- | -------
